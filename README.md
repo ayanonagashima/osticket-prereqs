@@ -39,12 +39,19 @@ World Wide Web Services -> Application Development Features ->
 AND IIS Management Console
 Internet Information Services -> Web Management Tools -> IIS Management Console
 [X] IIS Management Console
+<img src="https://i.imgur.com/lviaMr5.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+- Part 3
+- From the Installation Files, download and install HeidiSQL.
+Open Heidi SQL
+Create a new session, root/Password1
+Connect to the session
+Create a database called “osTicket”
+- Continue Setting up osticket in the browser
+MySQL Database: osTicket
+MySQL Username: root
+MySQL Password: Password1
+Click “Install Now!”
 
-
-
-- 
-- Item 4
-- Item 5
 
 <h2>Installation Steps</h2>
 

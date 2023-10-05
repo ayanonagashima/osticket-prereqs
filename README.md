@@ -61,8 +61,8 @@ Install Internet Information Services (IIS) Manager
 </p>
 <p>
 Heidi SQL Instllation
+</p>
 <br />
-
 
 <p>
 <img src="https://i.imgur.com/8aIj3On.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
